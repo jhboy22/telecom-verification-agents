@@ -1,0 +1,10 @@
+# Per-session mode state
+board/.mode/
+# Sanitizer maps hold the real values: never commit
+*_map.json
+# Real material stays local
+specs/rel18/
+vendor/
+kb/Raw/
+logs/
+__pycache__/
